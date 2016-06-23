@@ -1,0 +1,2 @@
+It's first file with text bla bla bla.
+Text file

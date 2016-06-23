@@ -1,0 +1,2 @@
+The latest version is Java 8, which is the only version currently supported for free by Oracle, although earlier versions 
+are supported both by Oracle and other companies on a commercial basis.
